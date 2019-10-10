@@ -1,3 +1,4 @@
 # Baby-Python
 Android application to help people learning python as first programming language
-![](images/logo.png =250x250)
+<img src="images/logo.png" width="200">
+
